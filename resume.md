@@ -1,6 +1,6 @@
 # My-An Pham (she/her)
 
-<img src="pic.png" width=70%>
+[self](pic.png)
 
 email: phammy22@uw.edu
 [LinkedIn Page](https://www.linkedin.com/in/my-an-pham-0b1190149/)
